@@ -7,7 +7,7 @@ my first two years at LSU.
 
 I have had some job experience in this field with working with Electronic Arts from May 2021 - August 2021, and I will be working with 
 Textron Industries for a Summer 2022 nine week long internship. To see some of the works I have collaborated on, you can check out the 
-links below. If you would like to contact me, feel free to email me at stephanie.e.mayberry@gmail.com.
+links below, and to see more projects I have done, feel free to check out my repositories. If you would like to contact me, email me at stephanie.e.mayberry@gmail.com.
 
 Collaborations:
 1. https://github.com/FadingEcho20/Aglets-3380-Project    Spring 2021 Object Oriented Program Project

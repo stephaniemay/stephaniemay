@@ -1,14 +1,5 @@
 Hello, I’m @stephaniemay and I am currently a Senior at Louisiana State University working on a degree in Computer Science
-with a focus in Data Science and Analytics, along with a minor in Business Administrations. I am graduating in May 2023. I have a thorough
-understanding of Java, Python, and HTML, and intro-level experience in CSS JavaScript, and C#. I also am proficient in Microsoft Word, Powerpoint, 
-and Excel. I am looking to pursue areas of problem-solving and pattern recognition within my Data Science focus, and want to continue
-to do hands-on work for first-hand experience. I also have a good bit of experience in Software Engineering as that was my focus for
-my first two years at LSU. 
-
-I have had some job experience in this field with working with Electronic Arts from May 2021 - August 2021, and I am working with 
-Textron Systems for Summer 2022 as an IT Infrastructure Analyst Intern. To see some of the works I have collaborated on, you can 
-check out the links below, and to see more projects I have done, feel free to check out my repositories. If you would like to contact 
-me, email me at stephanie.e.mayberry@gmail.com.
+with a focus in Data Science and Analytics, along with a minor in Business Administration, and I am graduating in May 2023. 
 
 Collaborations:
 1. https://github.com/FadingEcho20/Aglets-3380-Project    Spring 2021 Object Oriented Program Project
